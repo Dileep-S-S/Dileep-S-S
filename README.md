@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | Java • Spring Boot • React | Computer Science Engineer**
 
-I’m a passionate Full-Stack Developer focused on building scalable, secure, and user-centric web applications. I enjoy solving real-world problems through clean code, strong backend design, and modern frontend frameworks.
+I’m a passionate Full-Stack Developer who enjoys building scalable, secure, and user-friendly web applications. I like turning real-world problems into clean code and occasionally arguing with bugs until one of us gives up.
 
 ---
 
@@ -11,9 +11,9 @@ I’m a passionate Full-Stack Developer focused on building scalable, secure, an
 - 🎓 **B.E in Computer Science** at *JSS Science and Technology University* (CGPA: **8.97**)  
 - 🎓 **Diploma in Computer Science** from *Government CPC Polytechnic* (CGPA: **9.6**)  
 - 💼 **Full-Stack Developer Intern** at **BSQ Technology**, Mysuru  
-- 🔭 Experienced in **Java-based full-stack development**  
+- 🔭 Experienced in **Java-based full-stack development** (backend is my comfort zone)  
 - 🌱 Currently strengthening **backend architecture, APIs, and system design**  
-- 💡 Interested in **scalable systems, AI-driven platforms, and secure applications**
+- 💡 Interested in **scalable systems, feasible ideas, and building things that actually work**
 
 ## 🛠️ Tech Stack  
 
@@ -44,7 +44,6 @@ I’m a passionate Full-Stack Developer focused on building scalable, secure, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
 </p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dileep-S-S&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
